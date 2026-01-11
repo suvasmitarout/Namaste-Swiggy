@@ -8,8 +8,11 @@ const Body=()=>{
 
     const [listOfRestaurants,setListOfRestaurants]=useState([]);
     const [filteredRestaurant,setFilteredRestaurant]=useState([]);
-
+    
+   
     const [searchText,setSearchText]=useState("");
+
+   
 
     console.log("Body Rendered");
 

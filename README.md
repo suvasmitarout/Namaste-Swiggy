@@ -10,3 +10,9 @@ Footer
   -Links
   -Address
   -Contact
+
+
+# 2 type of routing in web apps
+
+Client side Routing
+Server Side Routing
